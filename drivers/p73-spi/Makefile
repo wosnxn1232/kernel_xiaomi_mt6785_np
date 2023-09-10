@@ -1,0 +1,1 @@
+obj-$(CONFIG_BEGONIA_NFC) += 6785/
